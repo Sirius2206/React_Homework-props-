@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
 import Films from "./components/stars/Films";
-import Stars from "./components/stars/Stars";
 import Listing from "./components/listing/Listing";
 import MessageHistory from "./components/messageHistory/MessageHistory";
 import etsy from "./data/etsy";
